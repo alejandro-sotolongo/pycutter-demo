@@ -2,4 +2,4 @@ streamlit
 skfolio
 numpy
 pandas
-sklearn
+scikit-learn
