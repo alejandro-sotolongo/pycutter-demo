@@ -3,3 +3,4 @@ skfolio
 numpy
 pandas
 scikit-learn
+fsspec
