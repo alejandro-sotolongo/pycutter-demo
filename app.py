@@ -4,7 +4,7 @@ import util
 
 from skfolio import Portfolio, RiskMeasure, PerfMeasure, RatioMeasure, Population
 from skfolio.optimization import MeanRisk, ObjectiveFunction, HierarchicalRiskParity
-from sklearn.model_selection import train_test_split
+from scikit-learn.model_selection import train_test_split
 
 
 st.set_page_config(page_title="Pycutter Demo", page_icon=":material/pie_chart:", 
